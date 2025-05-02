@@ -7,7 +7,7 @@ The project, "formik-app," utilizes Yup, React, Styled-components, and Formik to
 
 It features data validation to ensure accurate user inputs, and upon successful login, users are redirected to their personalized profile page. This combination of technologies enhances the app's functionality and user interface, providing a smooth and efficient workflow.
 
-# Demo: [link here](https://markopersonally.github.io/formik-app/)
+# Demo: [link here](https://m4rcin7.github.io/formik-app/)
 
 
 
