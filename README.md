@@ -32,11 +32,8 @@ It features data validation to ensure accurate user inputs, and upon successful 
 Install my-project with npm
 
 ```bash
-    git clone https://github.com/markopersonally/formik-app.git
-    npm install
-    npm install formik --save
-    npm install yup
-    npm install styled-components
+    git clone https://github.com/m4rcin7/formik-app.git
+    npm install formik yup styled-components
     npm start 
 ```
     
